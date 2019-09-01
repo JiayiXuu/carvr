@@ -44,4 +44,27 @@ words:
   word: "Learn "
 - img: "iconcat.jpg"
   word: "Share"
+
+
+#Flip cards content (3 arrays)
+flip_cards:
+- word: FUN
+  description: We have fun
+  back_heading: Game nights & Events
+  back_content: Get our monthly event details by joining our listerv!
+  button: true
+  btn_content: Subscribe
+  url: cat375_359.jpg
+- word: Learn
+  description: Weekly Learning workshop
+  back_heading: Game nights & Events
+  back_content: Get our monthly event details by joining our listerv!
+  button: true
+  btn_content: Subscribe
+- word: Create
+  description: Weekly development session
+  back_heading: Game nights & Events
+  back_content: Get our monthly event details by joining our listerv!
+  button: true
+  btn_content: Subscribe
 ---
