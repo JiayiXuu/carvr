@@ -179,30 +179,6 @@
 						}
 
 						// Mega Menu
-						&.dropdown-mega {
-							position: static;
-							> .dropdown-menu {
-								border-radius: 4px;
-								left: 15px;
-								right: 15px;
-								width: auto;
-							}
-							.dropdown-mega-content {
-								padding: 1.6rem;
-							}
-							.dropdown-mega-sub-title {
-								color: #333333;
-								display: block;
-								font-size: 0.85em;
-								font-weight: 600;
-								margin-top: 20px;
-								padding-bottom: 10px;
-								text-transform: uppercase;
-								letter-spacing: -0.5px;
-								&:first-child {
-									margin-top: 0;
-								}
-							}
 							.dropdown-mega-sub-nav {
 								list-style: none;
 								padding: 0;

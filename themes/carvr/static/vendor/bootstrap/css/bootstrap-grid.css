@@ -637,7 +637,7 @@ html {
 	}
 }
 
-@media (min-width: 992px) {
+@media (min-width: 0px) {
 	.col-lg {
 		-ms-flex-preferred-size: 0;
 		flex-basis: 0;
@@ -2041,7 +2041,7 @@ html {
 
 .mb-5,
 .my-5 {
-	margin-bottom: 3rem !important;
+	margin-bottom: 0px !important;
 }
 
 .ml-5,
